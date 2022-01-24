@@ -22,9 +22,6 @@ I am a student that likes to develop web applications.
 - CORS
 - Firebase / Supabase
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-  
-
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on a special project;
@@ -35,11 +32,10 @@ I am a student that likes to develop web applications.
 </br>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
 
+``` 
+  this
 ```
-<!--END_SECTION:waka-->
 
 
 📈 **My GitHub Stats:**

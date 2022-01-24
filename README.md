@@ -33,8 +33,9 @@ I am a student that likes to develop web applications.
 
 📊 **This Week I Spent My Time On:**
 
-``` 
-  this
+```     
+  - Custom New Tab Browser Extension
+  - VITE
 ```
 
 
